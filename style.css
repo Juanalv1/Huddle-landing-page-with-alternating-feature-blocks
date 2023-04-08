@@ -90,6 +90,7 @@ header{
 }
 .header-illustration{
   width: 100%;
+  max-width: 500px;
   margin-top: 40px;
 }
 main{
@@ -122,6 +123,7 @@ main{
 }
 .main-card--image{
   width: 100%;
+  max-width: 300px;
   /* max-width: 400px; */
 }
 .title{
@@ -165,7 +167,7 @@ footer{
 }
 .footer-logo{
   width: 50%;
-  max-width: 300px;
+  max-width: 200px;
 }
 .icon-location{
   align-self: self-start;
